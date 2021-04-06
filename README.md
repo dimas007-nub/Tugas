@@ -1,2 +1,1 @@
-# Tugas
-*Hanya untuk tugas Kuliah
+# TUGAS MATA KULIAH BIG DATA
